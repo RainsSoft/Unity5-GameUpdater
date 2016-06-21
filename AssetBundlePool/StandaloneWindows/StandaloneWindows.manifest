@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: button_1
+      Dependencies: {}
+    Info_1:
+      Name: gameobject3
+      Dependencies: {}
+    Info_2:
+      Name: hero
+      Dependencies: {}
+    Info_3:
+      Name: gameobject2
+      Dependencies: {}
+    Info_4:
+      Name: gameobject1
+      Dependencies: {}

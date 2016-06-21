@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1695359978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bc867b117560399c2eec312107b72e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 959558c5bd775b71ae98be98128c831c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a1604f39be2ffb4bb859c6633f5189a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameUpdater/Demo/GameObject3.prefab
+Dependencies: []
