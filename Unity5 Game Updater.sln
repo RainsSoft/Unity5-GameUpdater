@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity5 Game Updater.CSharp", "Unity5 Game Updater.CSharp.csproj", "{C949A41D-98A8-EF00-0747-296C9A3B06D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity5 Game Updater.CSharp.Editor", "Unity5 Game Updater.CSharp.Editor.csproj", "{104C65A1-6227-0A88-E742-6B7E8C57EB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C949A41D-98A8-EF00-0747-296C9A3B06D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C949A41D-98A8-EF00-0747-296C9A3B06D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C949A41D-98A8-EF00-0747-296C9A3B06D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C949A41D-98A8-EF00-0747-296C9A3B06D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104C65A1-6227-0A88-E742-6B7E8C57EB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104C65A1-6227-0A88-E742-6B7E8C57EB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104C65A1-6227-0A88-E742-6B7E8C57EB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104C65A1-6227-0A88-E742-6B7E8C57EB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
